@@ -99,7 +99,7 @@ filter_records(key, value): Filtert alle Datensätze in der Datenbank basierend 
 Beispiel
 Hier ist ein einfaches Beispiel für die Verwendung der YAML-Datenbankbibliothek:
 
-```
+```python
 from yaml_db import YamlDatabase
 
 # Initialisierung der Datenbank
